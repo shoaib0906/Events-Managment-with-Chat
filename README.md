@@ -1,4 +1,4 @@
-## Events-Managment-with-Chat
+## Support Application with Live Chat
 
 ## Chat Feature
   - Users / groups(soon) chat system.
