@@ -1,4 +1,4 @@
-## Support Application with Live Chat
+## Support Live Chat
 
 ## Chat Feature
   - Users / groups(soon) chat system.
